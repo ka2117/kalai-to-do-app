@@ -1,0 +1,61 @@
+.container{
+    display: block;
+}
+#todo button{
+    text-align: center;
+}
+body{
+    background: conic-gradient(rgb(230, 52, 52), rgb(83, 211, 83), rgb(228, 228, 67),rgb(211, 98, 117),purple,magenta);
+}
+h1{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    background: cyan;
+    width:fit-content;
+    text-align: center;
+    text-transform: uppercase;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 50px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#todo label{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-left: 300px;
+    
+}
+#todo input{
+    width: 400px;
+    height: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 10px;
+}
+#todo button{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    text-transform: uppercase;
+    width: 250px;
+    background: gold;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+#todo ul li{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
