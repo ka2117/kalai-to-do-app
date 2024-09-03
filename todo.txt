@@ -1,1 +1,2 @@
 git add method
+git pulling method
